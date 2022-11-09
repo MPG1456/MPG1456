@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Parsa.
+- 👀 I’m interested in Coding.
+- 🌱 I’m currently learning C++.
+- 📫 You can reach me via Telegram @MPG1456.
